@@ -40,3 +40,10 @@ Filter and slice data to explore targeted insights:
 - **Segment** — Analyze data by customer segments (Consumer, Corporate, Home Office).
 
 ---
+
+## 📊 Data Source
+
+Data used in this dashboard comes from this Kaggle dataset - https://www.kaggle.com/datasets/zahraaalaatageldein/sales-for-furniture-store.
+
+---
+
