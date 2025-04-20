@@ -1,14 +1,14 @@
-# 📊 Furniture Store Sales Dashboard
+# Furniture Store Sales Dashboard
 
 An interactive Excel Dashboard that provides insights into sales trends, customer behavior, and product performance. Ideal for store managers, sales teams, and analysts seeking to monitor and understand business performance at a glance.
 
 ---
 
-## 🧾 Dashboard Overview
+## Dashboard Overview
 
 This dashboard offers visualizations and key metrics to help identify growth opportunities and sales patterns. It includes:
 
-### 📈 Visualizations:
+### Visualizations:
 
 - **Sales Over Time (Line Chart)**  
   Tracks trends in sales across the four main product categories: Bookcases, Chairs, Furnishings, and Tables.
@@ -30,7 +30,7 @@ This dashboard offers visualizations and key metrics to help identify growth opp
 
 ---
 
-## 🎛️ Interactive Filters (Timeline and Slicers)
+## Interactive Filters (Timeline and Slicers)
 
 Filter and slice data to explore targeted insights:
 
@@ -41,9 +41,8 @@ Filter and slice data to explore targeted insights:
 
 ---
 
-## 📊 Data Source
+## Data Source
 
 Data used in this dashboard comes from this Kaggle dataset - https://www.kaggle.com/datasets/zahraaalaatageldein/sales-for-furniture-store.
 
 ---
-
